@@ -1,0 +1,30 @@
+[submodule "lunar-java"]
+	path = lunar-java
+	url = git@github.com:6tail/lunar-java.git
+[submodule "lunar-csharp"]
+	path = lunar-csharp
+	url = git@github.com:6tail/lunar-csharp.git
+[submodule "lunar-flutter"]
+	path = lunar-flutter
+	url = git@github.com:6tail/lunar-flutter.git
+[submodule "lunar-go"]
+	path = lunar-go
+	url = git@github.com:6tail/lunar-go.git
+[submodule "lunar-javascript"]
+	path = lunar-javascript
+	url = git@github.com:6tail/lunar-javascript.git
+[submodule "lunar-php-standalone"]
+	path = lunar-php-standalone
+	url = git@github.com:6tail/lunar-php-standalone.git,
+[submodule "lunar-php"]
+	path = lunar-php
+	url = git@github.com:6tail/lunar-php.git
+[submodule "lunar-python"]
+	path = lunar-python
+	url = git@github.com:6tail/lunar-python.git
+[submodule "lunar-swift"]
+	path = lunar-swift
+	url = git@github.com:6tail/lunar-swift.git
+[submodule "lunar-typescript"]
+	path = lunar-typescript
+	url = git@github.com:6tail/lunar-typescript.git
